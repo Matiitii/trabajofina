@@ -1,0 +1,646 @@
+@font-face {
+    font-family: ROMANTIC;
+    src: url(./fonts/ROMANTIC.TTF) ;
+}
+
+@font-face {
+    font-family: Annabel;
+    src: url(./fonts/annabel\ 1.otf) ;
+}
+
+@font-face {
+    font-family: inked;
+    src: url(./fonts/iNked\ God.ttf) ;
+}
+
+@font-face {
+    font-family: stars;
+    src: url(./fonts/Starstruck.ttf) ;
+}
+
+
+@font-face {
+    font-family: pro;
+    src: url(.//fonts/StretchPro.otf) ;
+}
+
+@font-face {
+    font-family: moon;
+    src: url(.//fonts/Moonstar.ttf) ;
+}
+
+@font-face {
+   
+    font-family: position;
+    src: url(.//fonts/PositionsByArixbored-Regular\ .otf) ;
+}
+
+@font-face {
+   
+    font-family: genshin;
+    src: url(.//fonts/ja-jp.ttf) ;
+}
+
+
+
+h1 {
+    font-family: pro;
+    color: #ffffffD9;
+}
+
+
+.inicio {
+    display: flex;
+    flex-direction: row;
+   
+justify-content:space-between;
+   
+    margin: 0% 100px 0% 100px;
+   
+    text-align: justify;
+    
+}
+
+
+
+.caja1{
+    padding: 150px;
+}
+
+.arleT{
+    display: flex;
+    flex-direction: row;
+  
+    
+}
+
+#Arlecchino  {
+    width: 640px;
+    height: 640px;
+   
+} 
+
+
+.botones {
+
+    display: flex;
+    
+  gap: 5%;
+  margin: 1%;
+  border-radius: 20%;
+
+ 
+}
+
+
+
+
+
+
+.caja2{
+    display: flex;
+    flex-direction: row;
+   
+justify-content:space-between;
+text-align: justify;
+
+    margin: 20px 10px 2px 10px
+    
+    
+}
+
+h2 {
+    font-family: genshin;
+    margin-left: 10px;
+    margin-right: 10px;
+   
+    
+}
+
+.color {
+    
+    color: #ffffff40;
+}
+
+
+
+
+.acomodar {
+   margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px; 
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    gap: 3%;
+    
+}
+
+
+#arlecchino2 {
+  
+    width: 473px;
+    height: 450px;
+    margin-left: 150px;
+    margin-right: 10px;
+}
+
+#animacion1 {
+    display: none;
+    width: 341px;
+    height: 450px;
+    margin-left: 150px;
+    margin-right: 100px;
+  
+    border-radius: 10px;
+}
+
+#animacion2 {
+    display: none;
+    width: 341px;
+    height: 450px;
+    margin-left: 150px;
+    margin-right: 50px;
+  
+    border-radius: 10px;
+}
+.galeriaImagenes{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+
+#tarjeta {
+    width: 225px;
+    height: 450px;
+    
+    margin-left: 10px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+h3 {
+    
+    font-family: position;
+    margin-right: 20px;
+}
+
+#textoVestimenta {
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 3px;
+}
+
+#constelacion {
+    
+    display: none;
+    width: 472px;
+    height: 450px;
+    margin-left: 150px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.botoness {
+    display: flex;
+    gap: 50px;
+
+    padding: 30px 150px 5px 150px;
+    
+    
+    
+}
+
+.redondear {
+    border-radius: 25%;
+    font-family: genshin;
+    font-size:medium;
+    background-color: black;
+    opacity: 60%;
+
+    color:burlywood ;
+   border: none;
+   background-size: 25%;
+}
+
+
+.organizar{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+}
+#ataquebasico {
+   height: 169px;
+   height: 202px;
+   border-radius: 10px;
+   margin-left: 130px;
+margin-top: 40px;
+
+}
+
+#elemental {
+    height: 169px;
+    height: 202px;
+    border-radius: 10px;
+    margin-left: 130px;
+ margin-top: 40px;
+ 
+}
+
+.colorrojito b1 {
+    color: #80C0FF  ;
+}
+
+ #ulti {
+    height: 169px;
+    height: 202px;
+    border-radius: 10px;
+    margin-left: 130px;
+ margin-top: 40px;
+ 
+ }
+
+ .espacio {
+    
+    margin-right: 30px;
+    padding: 40px;
+    overflow: hidden;
+}
+
+.sufrimiento {
+    margin-left: 100px;
+    margin-right: 100px;
+ margin-top: 3px;
+}
+
+
+
+#dos {
+    display: none;
+}
+#tres {
+    display: none;
+}
+#cuatro {
+    display: none;
+}
+#cinco {
+    display: none;
+}
+#seis {
+    display: none;
+}
+#uno {
+    display: flex;
+}
+
+
+.constelacion {
+    margin-left: 130px;
+    margin-right: 130px;
+    display: flex;
+    flex-direction: row;
+    gap: 2px;
+    padding: 20px;
+    
+}
+
+
+.c {
+    margin-top: 2%;
+    color: #ffffffD9;
+}
+
+
+.imgc {
+    width: 60px;
+    height: 60px;
+}
+
+
+.texto {
+    margin-left: 130px;
+    margin-right: 130px;
+}
+
+.titulo {
+    display: flex;
+    margin: 50px 100px 50px 100px;
+    justify-content: center;
+}
+
+
+.videos {
+    display: flex;
+    
+    margin: 50px 120px 20px 120px;
+    justify-content: center;
+   
+}
+
+.viideo {
+    border-radius: 20px;
+}
+
+.videotitulo {
+    
+    margin-left: 145px;
+    margin-right: 155px;
+}
+
+.videotitulo2 {
+    
+    margin-right: 10%;
+}
+
+.videos2 {
+    display: flex;
+    margin: 5% 10% 5% 10%;
+    justify-content: center;
+   
+}
+
+.fotosss {
+    
+    margin-left: 180px;
+    width: 368px;
+   
+    margin-bottom: 60px;
+    border-radius: 10px;
+}
+
+.fotos {
+  
+    display: flex;
+    
+    flex-direction: column;
+  
+    
+}
+
+
+.separar {
+    display: flex;
+    margin: 0px 350px 0px 300px;
+   
+}
+
+.tituloStickers {
+    display: flex;
+    margin: 1px 150px 50px 150px;
+    justify-content: center;
+}
+
+
+
+#fotosss2 {
+    margin-left: 18%;
+    width: 35%;
+    height: 35%;
+    margin-bottom: 5%;
+    border-radius: 5%; 
+}
+
+.fondoazul {
+    color: #ffffffA6;
+    background-size: 100%;
+    Background-color: #15315c;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+
+.fecha {
+    color:  #FFE14B;
+
+}
+
+
+.youtubee {
+    color: #FF9999;
+    font-family: genshin;
+} 
+
+.hoyolab {
+    color: #ffacff;
+    font-family: genshin;
+} 
+
+p{
+    font-family: genshin;
+    color: #ffffffA6;
+}
+
+.linkk {
+    color: #99FFFF;
+}
+
+
+.blanco {
+    color: #ffffffD9;
+}
+
+
+.blancogris {
+    color: #ffffffA6;
+}
+
+body {
+
+    background: #323947;
+    background: linear-gradient(90deg, #0c253d, #0f5499 51.42%, #0c253d);
+};
+
+
+#v {
+    color: #ffffff40;
+}
+
+h5 {
+    font-family: genshin;
+    color: #ffe699;
+}
+
+.titulosataques {
+    color: #ffffffD9;
+}
+
+
+.texto b {
+    color:#ffe699;
+}
+
+.texto b1 {
+  color:   #80C0FF;
+}
+
+.espacio b {
+    color: #99FFFF;
+}
+
+
+
+.fondoazul3 {
+    color: #ffffffA6;
+    background-size: 100%;
+    Background-color: #15315c;
+  
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+
+.decorar {
+    display: flex;
+    flex-direction: row;
+    border-radius: 15%;
+    font-family: genshin;
+  margin-bottom: 2%;
+  gap: 2%;
+  background-color: black;
+    opacity: 60%;
+
+    color:burlywood ;
+   border: none;
+   background-size: 25%;
+}
+
+.botonesataques {
+    width: 72px;
+    height: 72px;
+   display: flex;
+   align-items: center;
+    border-radius: 30%;
+   border:  #ffffffA6;
+    background-color:  #15315c;
+    
+    
+}
+
+.botonesatq {
+    width: 72px;
+    height: 72px;
+    display: flex;
+    align-items: center;
+    border:  #ffffffA6;
+}
+
+
+#coloramarillo b{
+    color:#ffe699;
+}
+
+
+#rojoyamarillo b{
+    color:#ffe699;
+}
+
+#rojoyamarillo b1{
+  color:  #FF9999;
+}
+
+#video {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: -1;
+    opacity: 40%;
+}
+
+.arle {
+    display: flex;
+    flex-direction: row;
+}
+
+.estrellitas {
+    display: flex;
+    flex-direction: row;
+}
+
+.g {
+    display: flex;
+  flex-direction: column;
+}
+
+.acomodando {
+    display: flex;
+    flex-direction: row;
+}
+
+#arlee {
+    
+    width: 20%;
+    height: 20%;
+}
+
+#arlecchinotitulo {
+
+    color: #ffffffD9;
+    justify-content:flex-start;
+    
+}
+
+#fuego {
+    width: 50%;
+    height: 50%;
+}
+
+
+#arlecchinoo {
+    width: 300px;
+    height: 240px;
+}
+
+#tamaño {
+    font-size: 15px;
+}
+
+.centrarAnuncioPJ {
+    border-radius: 5px;
+    margin-left: 105px;
+}
+
+.rotar {
+    transform: scaleY(-1);
+}
+
+
+#fondoo {
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    z-index: -1;
+    opacity: 50%;
+    
+}
+.espacio2 {
+    
+    margin-right: 150px;
+    padding: 40px;
+    overflow: hidden;
+}
+
+.espacio3 {
+    
+    margin-right: 220px;
+    padding: 40px;
+    overflow: hidden;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+}
+
